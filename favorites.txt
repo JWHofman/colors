@@ -6,3 +6,4 @@ fries
 cake
 chicken
 beef
+whisky
